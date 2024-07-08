@@ -1,0 +1,86 @@
+[
+
+    {
+      "recipeName": "Hawaiian Pizza",
+      "category": "Pizza",
+      "img":"https://i.ibb.co/FmJ5WLX/pizza.jpg",
+      "ingredients": ["Tomato sauce", "Ham", "Pineapple", "Mozzarella cheese"],
+      "description": "A tropical delight with tomato sauce, ham, pineapple, and mozzarella cheese.",
+      "price": 13.99
+    },
+    {
+      "recipeName": "Vegetarian Pizza",
+      "category": "Pizza",
+      "img":"https://i.ibb.co/FmJ5WLX/pizza.jpg",
+      "ingredients": ["Tomato sauce", "Bell peppers", "Mushrooms", "Onions", "Mozzarella cheese"],
+      "description": "A veggie lover's dream with tomato sauce, bell peppers, mushrooms, onions, and mozzarella cheese.",
+      "price": 11.99
+    },
+    {
+      "recipeName": "BBQ Chicken Pizza",
+      "category": "Pizza",
+      "img":"https://i.ibb.co/FmJ5WLX/pizza.jpg",
+      "ingredients": ["BBQ sauce", "Grilled chicken", "Red onions", "Mozzarella cheese"],
+      "description": "Tangy BBQ sauce, grilled chicken, red onions, and mozzarella cheese make this pizza a hit.",
+      "price": 12.49
+    },
+    {
+      "recipeName": "Seafood Pizza",
+      "category": "Pizza",
+      "img":"https://i.ibb.co/FmJ5WLX/pizza.jpg",
+      "ingredients": ["Tomato sauce", "Shrimp", "Calamari", "Mussels", "Mozzarella cheese"],
+      "description": "A seafood lover's delight with tomato sauce, shrimp, calamari, mussels, and mozzarella cheese.",
+      "price": 14.99
+    },
+    {
+      "recipeName": "Meat Lovers Pizza",
+      "category": "Pizza",
+      "img":"https://i.ibb.co/FmJ5WLX/pizza.jpg",
+      "ingredients": ["Tomato sauce", "Pepperoni", "Sausage", "Bacon", "Mozzarella cheese"],
+      "description": "For the carnivores - tomato sauce, pepperoni, sausage, bacon, and mozzarella cheese.",
+      "price": 15.99
+    },
+  
+  
+    {
+      "recipeName": "Bacon Cheeseburger",
+      "category": "Burgers",
+       "img":"https://i.ibb.co/jhdr48B/berger.jpg",
+      "ingredients": ["Beef patty", "Bacon", "Cheddar cheese", "Lettuce", "Tomato", "Burger bun"],
+      "description": "A classic cheeseburger with crispy bacon strips and cheddar cheese.",
+      "price": 10.49
+    },
+    {
+      "recipeName": "Mushroom Swiss Burger",
+      "category": "Burgers",
+       "img":"https://i.ibb.co/jhdr48B/berger.jpg",
+      "ingredients": ["Beef patty", "Swiss cheese", "Sautéed mushrooms", "Lettuce", "Tomato", "Burger bun"],
+      "description": "A savory burger with Swiss cheese and sautéed mushrooms.",
+      "price": 9.99
+    },
+    {
+      "recipeName": "BBQ Bacon Burger",
+      "category": "Burgers",
+       "img":"https://i.ibb.co/jhdr48B/berger.jpg",
+      "ingredients": ["Beef patty", "Bacon", "BBQ sauce", "Cheddar cheese", "Lettuce", "Tomato", "Burger bun"],
+      "description": "A hearty burger topped with BBQ sauce, crispy bacon, and cheddar cheese.",
+      "price": 11.49
+    },
+    {
+      "recipeName": "Vegan Burger",
+      "category": "Burgers",
+       "img":"https://i.ibb.co/jhdr48B/berger.jpg",
+      "ingredients": ["Vegan patty", "Vegan cheese", "Lettuce", "Tomato", "Vegan bun"],
+      "description": "A plant-based burger with vegan patty and vegan cheese.",
+      "price": 9.99
+    },
+    {
+      "recipeName": "Double Cheeseburger",
+      "category": "Burgers",
+       "img":"https://i.ibb.co/jhdr48B/berger.jpg",
+      "ingredients": ["Double beef patty", "American cheese", "Lettuce", "Tomato", "Burger bun"],
+      "description": "A hearty burger with double beef patties and melted American cheese.",
+      "price": 12.99
+    }
+  ]
+  
