@@ -30,7 +30,6 @@ const Navbar = () => {
                 <div className="">
                     <ul className={`md:flex md:top-6 md:right-20 md:space-x-8 absolute ${menuOpen === true ? 'top-20 rounded-md pl-3 bg-slate-500 opacity-100 w-full pt-3 pb-5 space-y-5 z-10' : '-top-48'}`}>
                         <li><Link to="/" className=" text-white hover:text-gray-300 uppercase">HOME</Link></li>
-
                         <li><Link to="/shop" className=" text-white hover:text-gray-300 uppercase">OUR SHOP</Link></li>
                         <li><Link to="/about" className=" text-white hover:text-gray-300 uppercase">About Us</Link></li>
                         <li><Link to="/contact" className=" text-white hover:text-gray-300 uppercase">CONTACT US</Link></li>
