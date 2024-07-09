@@ -25,7 +25,6 @@ const Navbar = () => {
             <nav className="container fixed bg-slate-500 z-50 text-white  md:flex items-center md:opacity-50   py-6  top-0 opacity-80">
                 <div onClick={() => setMenuOpen(!menuOpen)} className='flex justify-between mx-4'>
                     <Link to="/" className="text-white font-bold text-lg uppercase md:ml-5">Coppa Restaurent</Link>
-
                     <small className=' md:hidden '>{menuOpen === true ? <FaTimes size={20} /> : <FaBars size={20} />}</small>
                 </div>
                 <div className="">
