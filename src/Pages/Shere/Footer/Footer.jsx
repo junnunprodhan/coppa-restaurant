@@ -8,7 +8,7 @@ const Footer = () => {
                 <p className="font-bold">
                 Coppa restaurant Ltd. <br /> Providing reliable Foods since 1999 
                 </p>
-                <p>Copyright © 2024 - All right reserved</p>
+                <p>Copyright © 2024 - All right reserved </p>
             </aside>
             <nav>
                 <div className="grid grid-flow-col gap-4">
